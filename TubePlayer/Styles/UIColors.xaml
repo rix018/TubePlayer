@@ -1,0 +1,13 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <!-- Window Pallette -->
+    <Color x:Key="WinColor1">#53564C</Color>
+    <Color x:Key="WinColor2">#FF000000</Color>
+    
+    <!-- Font Colors -->
+    <SolidColorBrush x:Key="NavMainColor1" Color="#53564C"></SolidColorBrush>
+    <SolidColorBrush x:Key="NavMainColor2" Color="#FFFFFF"></SolidColorBrush>
+
+
+</ResourceDictionary>

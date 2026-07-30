@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|d:\\~rix\\proj\\repository\\c# (visual studio)\\tubeplayer\\tubeplayer\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|d:\\~rix\\proj\\repository\\c# (visual studio)\\tubeplayer\\tubeplayer\\styles\\uicolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|solutionrelative:styles\\uicolors.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|d:\\~rix\\proj\\repository\\c# (visual studio)\\tubeplayer\\tubeplayer\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|d:\\~rix\\proj\\repository\\c# (visual studio)\\tubeplayer\\tubeplayer\\tubeplayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|solutionrelative:tubeplayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|d:\\~rix\\proj\\repository\\c# (visual studio)\\tubeplayer\\tubeplayer\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FE399034-EA8C-4002-94DD-51A0A6B0FE49}|TubePlayer.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml",
+              "ToolTip": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-30T11:36:03.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwB8AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T11:32:01.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-30T11:19:16.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UIColors.xaml",
+              "DocumentMoniker": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\Styles\\UIColors.xaml",
+              "RelativeDocumentMoniker": "Styles\\UIColors.xaml",
+              "ToolTip": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\Styles\\UIColors.xaml",
+              "RelativeToolTip": "Styles\\UIColors.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-07-30T11:14:49.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TubePlayer.csproj",
+              "DocumentMoniker": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\TubePlayer.csproj",
+              "RelativeDocumentMoniker": "TubePlayer.csproj",
+              "ToolTip": "D:\\~Rix\\Proj\\Repository\\C# (Visual Studio)\\TubePlayer\\TubePlayer\\TubePlayer.csproj",
+              "RelativeToolTip": "TubePlayer.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-07-30T11:08:29.813Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
